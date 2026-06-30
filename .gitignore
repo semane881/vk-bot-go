@@ -1,0 +1,5 @@
+.env
+vk_bot_go.exe
+*.exe
+.idea/
+.vscode/
